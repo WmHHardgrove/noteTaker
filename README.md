@@ -29,7 +29,7 @@ An app to take notes
   https://github.com/WmHHardgrove/noteTaker
 
   ##  URL
-  <img src="./bh-portfolio/src/assets/appscreen.png" alt="About me landing page screenshot">
+  <img src=".noteTaker/error.png" alt="Error screenshot">
 
 
   ## Questions
